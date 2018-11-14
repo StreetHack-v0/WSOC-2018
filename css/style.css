@@ -49,6 +49,12 @@ a {
     }
 }
 
+.copyright {
+  text-align: center;
+  padding: 30px 0;
+  background: #28023D;
+  bottom:0;
+}
 .logo:hover {
     -webkit-animation-name: rotate;
     -webkit-animation-duration: 2s; 
